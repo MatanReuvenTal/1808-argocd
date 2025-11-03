@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: nginx:alpine
+          image: avielb/1808-myimage:v0.1
